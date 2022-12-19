@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Carissa
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning c++
+- My monkeytype profile - https://monkeytype.com/profile/carissa30
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me ...
 
